@@ -213,13 +213,11 @@ body {
   margin: 100px 10px;
   width: 350px;
   height: 500px;
-  background: lightcoral;
 }
 .content3 {
   margin: 100px 10px;
   width: 350px;
   height: 500px;
-  background: lightcoral;
 }
 .img {
   width: 350px;
@@ -233,10 +231,22 @@ body {
   font-size: 30px;
   font-weight: bold;
 }
+.container2 h2 {
+  margin-top: 20px;
+
+  font-size: 20px;
+  font-weight: bold;
+}
+.container2 p {
+  margin-top: 20px;
+
+  font-size: 15px;
+  font-weight: bold;
+}
 
 .container3 {
   width: 90%;
-  height: 700px;
+  height: 450px;
   margin: 0 auto;
   background: #ff8900;
 }
@@ -264,10 +274,22 @@ body {
   padding: 20px;
 }
 .container3 h1 {
-  width: 150px;
+  width: 250px;
 
   font-size: 60px;
   font-weight: bold;
+}
+
+.container3 p {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 5px;
+}
+.container3 .right {
+  width: 300px;
+}
+.payday {
+  background: white;
 }
 
 .container4 h1 {
@@ -351,6 +373,7 @@ body {
 }
 .fashion {
   height: 100%;
+  margin-top: -100px;
 }
 .container7 {
   width: 90%;
@@ -458,4 +481,17 @@ body {
   height: 50px;
   border-radius: 5px;
   margin: 0 8px;
+}
+
+.medsos {
+  width: 25px;
+  height: 25px;
+  padding: 12px;
+}
+
+.shop {
+  color: white;
+  background: black;
+  border-radius: 5px;
+  padding: 15px;
 }
